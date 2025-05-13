@@ -1,21 +1,29 @@
 name: Snake Animation
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
   push:
     branches: [main]
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v2
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate Snake
+        uses: Platane/snk@v2
         with:
           github_user_name: V1ct0rhugo22
-          svg_out_path: ./assets/github-snake.svg
-      - uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: main
-          folder: assets
+          svg_out_path: ./snake.svg
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "V1ct0rhugo22"
+          git config --global user.email "victorhero53@gmail.com"
+          git add snake.svg
+          git commit -m "Update snake animation"
+          git push
