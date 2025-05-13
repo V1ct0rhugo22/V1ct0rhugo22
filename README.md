@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=V1CT0RHUG0&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=V1CT0RHUG0&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
 
   ### 👨‍💻 Estudante de Desenvolvimento de Sistemas | SENAI
   
@@ -24,20 +24,17 @@
 
   ![Estatísticas](https://github-readme-stats.vercel.app/api?username=V1ct0rhugo22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rhugo22&layout=compact&theme=tokyonight&hide_border=true)
+  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rhugo22&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=V1ct0rhugo22)
 
   ---
 
   ### 🐍 Meus Commits Viram uma Cobrinha!
 
-![Snake Animation](https://raw.githubusercontent.com/V1ct0rhugo22/V1ct0rhugo22/main/snake.svg)
+  ![Snake Animation](https://raw.githubusercontent.com/V1ct0rhugo22/V1ct0rhugo22/output/github-contribution-grid-snake.svg)
 
   ---
 
   ### 📌 Projeto em Destaque
   
   ```markdown
-  🚧 [EM BREVE] Calculadora Interativa com JavaScript
-  - HTML/CSS/JS
-  - Dark Mode
-  - Responsiva
+  🚀 [EM BREVE] 
