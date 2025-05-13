@@ -30,7 +30,7 @@
 
   ### 🐍 Meus Commits Viram uma Cobrinha!
 
-![Snake Animation](https://raw.githubusercontent.com/V1ct0rhugo22/V1ct0rhugo22/output/github-contribution-grid-snake.svg)
+ ![Snake Animation](https://raw.githubusercontent.com/V1ct0rhugo22/V1ct0rhugo22/main/assets/github-snake.svg)
 
   ---
 
