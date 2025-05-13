@@ -33,3 +33,11 @@
   ![Snake Animation](https://raw.githubusercontent.com/V1ct0rhugo22/V1ct0rhugo22/output/github-contribution-grid-snake.svg)
 
   ---
+
+  ### 📌 Projeto em Destaque
+  
+  ```markdown
+  🚧 [EM BREVE] Calculadora Interativa com JavaScript
+  - HTML/CSS/JS
+  - Dark Mode
+  - Responsiva
