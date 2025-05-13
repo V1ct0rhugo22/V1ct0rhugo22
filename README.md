@@ -37,7 +37,4 @@
   ### 📌 Projeto em Destaque
   
   ```markdown
-  🚧 [EM BREVE] Calculadora Interativa com JavaScript
-  - HTML/CSS/JS
-  - Dark Mode
-  - Responsiva
+  🚧 [EM BREVE] 
