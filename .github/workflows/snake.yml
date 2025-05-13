@@ -1,0 +1,17 @@
+name: Generate Snake
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: V1ct0rhugo22
+      - uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: main
+          folder: output
