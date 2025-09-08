@@ -2,7 +2,7 @@
 
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=V1CT0RHUG0&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
 
-  ### 👨‍💻 Estudante de Desenvolvimento de Sistemas | SENAI
+  ###  Estudante de Desenvolvimento de Sistemas | SENAI
 
   [![Instagram](https://img.shields.io/badge/-@vh.santos_17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vh.santos_17)
   [![Gmail](https://img.shields.io/badge/-victorhero53@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhero53@gmail.com)
@@ -12,17 +12,17 @@
 
 ---
 
-## 🚀 Sobre mim
+  - EU
 Sou desenvolvedor em formação, apaixonado por tecnologia e pela criação de soluções que impactam positivamente pessoas e negócios.  
 Atualmente, estudo **Desenvolvimento de Sistemas no SENAI**, com foco em **Java (Spring Boot), MySQL, React e integração de sistemas**.  
 
-- 🔭 Estou trabalhando em projetos de **controle de estoque e sistemas web**  
-- 🌱 Atualmente aprendendo **JPA, Swagger e boas práticas de arquitetura**  
-- 🎯 Objetivo: evoluir como **Desenvolvedor Full Stack**  
+- Estou trabalhando em projetos de **controle de estoque e sistemas web**  
+- Atualmente aprendendo **JPA, Swagger e boas práticas de arquitetura**  
+- Objetivo: evoluir como **Desenvolvedor Full Stack**  
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades 
 
 <div align="center">
 
@@ -38,7 +38,7 @@ Atualmente, estudo **Desenvolvimento de Sistemas no SENAI**, com foco em **Java 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## GitHub
 
 <div align="center">
 
@@ -49,19 +49,12 @@ Atualmente, estudo **Desenvolvimento de Sistemas no SENAI**, com foco em **Java 
 
 ---
 
-## 📌 Projetos em Destaque  
+## --Projetos-- 
 
 - 🔗 [Controle de Estoque - Java + MySQL](#)  
 - 🔗 [Leitor de QR Code com Spring Boot](#)  
 - 🔗 [Dashboard com React + FullCalendar](#)  
 - 🔗 [Landing Page Responsiva](#)  
 
----
-
-## 🐍 Meus Commits
-
-<div align="center">
-  
-![Snake Animation](https://raw.githubusercontent.com/V1ct0rhugo22/V1ct0rhugo22/output/github-contribution-grid-snake.svg)
 
 </div>
