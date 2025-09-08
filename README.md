@@ -12,7 +12,7 @@
 
 ---
 
-  - EU
+  ### EU
 Sou desenvolvedor em formação, apaixonado por tecnologia e pela criação de soluções que impactam positivamente pessoas e negócios.  
 Atualmente, estudo **Desenvolvimento de Sistemas no SENAI**, com foco em **Java (Spring Boot), MySQL, React e integração de sistemas**.  
 
