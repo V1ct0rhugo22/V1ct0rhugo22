@@ -22,12 +22,8 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Victor Hugo**, tenho 18 anos e moro em São Carlos/SP. Atualmente sou **Aprendiz em Desenvolvimento de Sistemas** (SESI/SENAI).
+Sou **Victor Hugo**, tenho 18 anos e moro em São Carlos/SP.
 Meu foco é construir aplicações completas e escaláveis, unindo a robustez do **Java (Spring Boot)** no back-end com a interatividade do **React** no front-end.
-
-* 🔭 Atualmente trabalhando no **SENAICommunity** (Rede Social Full Stack).
-* 📚 Estudando **Arquitetura de Software**, **API RESTful** e **React Native**.
-* 🎯 Objetivo: Me tornar um Engenheiro de Software Full Stack.
 
 ---
 
@@ -53,15 +49,6 @@ Meu foco é construir aplicações completas e escaláveis, unindo a robustez do
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V1ct0rhugo22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rhugo22&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=V1ct0rhugo22" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
